@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\bin\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.exe
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\bin\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.deps.json
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\bin\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\bin\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.dll
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\bin\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.pdb
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.dll
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\refint\Sistem Manajemen Karyawan di Perusahaan.dll
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.pdb
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\Sistem Manajemen Karyawan di Perusahaan.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\Sistem Manajemen Karyawan di Perusahaan\obj\Debug\net9.0\ref\Sistem Manajemen Karyawan di Perusahaan.dll
